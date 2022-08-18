@@ -16,10 +16,10 @@ cd Birthday
 && 
 
 ```
-python -m SimpleHTTPServer --port  8081
+python3 -m http.server --port  9180
 ```
 
-visit http://localhost:8081 in your browser.
+visit http://localhost:9180 in your browser.
 
 ## If you have nodejs installed
 ```
